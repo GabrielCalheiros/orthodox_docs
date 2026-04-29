@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.illustration{
+    width: 40%;
+    margin-top: 100px;
+    margin-left: 30%;
+    margin-bottom: 50px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: goldenrod;
+}
