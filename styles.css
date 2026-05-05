@@ -27,6 +27,13 @@ p{
     text-align: justify;
 }
 
+.book_cover{
+    display: block;
+    max-width: 30%;
+    padding: 20px;
+    margin: 0 auto; /* centers it */
+}
+
 
 @media (max-width: 768px) {
 
